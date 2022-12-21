@@ -1,0 +1,18 @@
+.card { 
+    margin: 2px;
+    padding: 2px;
+    border: 2px solid rgb(18, 2, 241);
+    width: 600px;
+}
+
+.card-titulo {
+    background-color: rgb(10, 6, 235);
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.card-conteudo {
+    
+    color: rgb(0, 0, 0);
+    margin: 1px;
+}
