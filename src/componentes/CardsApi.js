@@ -2,7 +2,7 @@ import Card from "./Card"
 import Api from "../services/Api";
 import {useState, useEffect} from "react";
 
-function ListaCardsApi() {
+function CardsApi() {
 
     const [livros, setLivros] = useState([]);
     
@@ -25,4 +25,4 @@ function ListaCardsApi() {
     )
 }
 
-export default ListaCardsApi;
+export default CardsApi;
